@@ -69,7 +69,7 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 4. Run the `schema.sql` and `seeds.sql` files into the mysql server from the command line
 
-5. Now you're going to run these SQL files. 
+5. Now you're going to run these SQL files.
 
    * Make sure you're in the `db` folder of your app.
 
